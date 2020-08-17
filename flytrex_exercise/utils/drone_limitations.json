@@ -1,0 +1,25 @@
+
+{
+  "current": {
+    "wind": {
+      "max": 8
+    },
+    "temperature": {
+      "min": 5,
+      "max": 35
+    },
+    "can_handle_precipitation": false,
+    "precipitation_ml_resistance": 0
+  },
+  "future": {
+    "wind": {
+      "max": 12
+    },
+    "temperature": {
+      "min": -5,
+      "max": 40
+    },
+    "can_handle_precipitation": true,
+    "precipitation_ml_resistance": 200
+  }
+}
